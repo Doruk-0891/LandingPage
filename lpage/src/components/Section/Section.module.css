@@ -1,0 +1,24 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: var(--margin-bottom);
+    position: relative;
+}
+
+#carousel {
+    text-align: left;
+}
+
+#carousel .sectionHeading {
+    width: 50%;
+}
+
+
+.sectionHeading {
+    font-family: "Inter";
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 77.23px;
+    margin-bottom: 40px;
+}
