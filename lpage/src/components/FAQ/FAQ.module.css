@@ -1,0 +1,32 @@
+.wrapper {
+    width: 80%;
+    margin: auto;
+    margin-bottom: var(--margin-bottom);
+}
+
+.header {
+    font-family: "Inter";
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74.53px;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.container > div {
+    flex: 1;
+
+}
+
+.container p {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.25px;
+    opacity: 30%;
+}
